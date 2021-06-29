@@ -1,4 +1,4 @@
-package com.dynamicdevz.ddkotlinmvp;
+package com.dynamicdevz.ddkotlinmvp.model;
 
 import com.dynamicdevz.ddkotlinmvp.util.Constants;
 
